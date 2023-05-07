@@ -1,0 +1,23 @@
+.greenbox {
+    background-color: #A4E6A4;
+    /* width: 20%; */
+    flex-grow: 1;
+}
+
+.purplebox {
+    background-color: #CEAAF0;
+    /* width: 40%; */
+    flex-grow: 2;
+}
+
+.pinkbox{
+    background-color: #F288D5;
+    /* width: 40%; */
+    flex-grow: 2;
+}
+
+.sectionflexbox {
+    border: 2px solid red;
+    display : flex;
+    /* gap: 2em; */
+}

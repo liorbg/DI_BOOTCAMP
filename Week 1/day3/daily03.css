@@ -1,0 +1,33 @@
+.tableau {
+  display: flex;
+  justify-content: space-around;
+}
+
+.ensemble {
+  display: flex;
+  flex-direction: row;
+}
+.repeat {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.orange {
+  background-color: orange;
+  border: 1px solid black;
+  width: 30px;
+  height: 30px;
+}
+.beige {
+  background-color: beige;
+  border: 1px solid black;
+  width: 30px;
+  height: 30px;
+}
+.marron {
+  background-color: brown;
+  border: 1px solid black;
+  width: 30px;
+  height: 30px;
+}
